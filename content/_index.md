@@ -13,7 +13,8 @@ sections:
       #  filename: group_pic.jpg
       text:
         We are syntacticians in CUHK led by Prof Victor Pan, in the Department of Linguistics and Modern Languages. Our interests cover formal syntax (especially under Minimalist Program), understudied languages, and interdisciplinary research for exploring the linguistic essence in human's mind.
-        {style="font-size:20px"}
+    design:
+      css_style: 'font-size:20px'
         
   - block: collection
     content:
@@ -34,25 +35,25 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+ # - block: markdown
+ #   content:
+ #     title:
+ #     subtitle: ''
+ #     text:
+ #   design:
+ #     columns: '1'
+ #     background:
+ #       image: 
+ #         filename: coders.jpg
+ #         filters:
+ #           brightness: 1
+ #         parallax: false
+ #         position: center
+ #         size: cover
+ #         text_color_light: true
+ #     spacing:
+ #       padding: ['20px', '0', '20px', '0']
+ #     css_class: fullscreen
 
   - block: collection
     content:
@@ -64,7 +65,7 @@ sections:
           - publication
         publication_type: 'article'
     design:
-      view: citation
+      view: compact
       columns: '1'
 
   - block: markdown
