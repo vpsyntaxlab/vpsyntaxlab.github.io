@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Pan's Syntax Group in CUHK
+title: Victor Pan
 
 # Full Name (for SEO)
 first_name: Victor
