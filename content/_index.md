@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Syntax Group in CUHK
+        CUHK Syntax Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        We are syntacticians in CUHK.
+        We are syntacticians in CUHK led by Prof Victor Pan, in the Department of Linguistics and Modern Languages. Our interests cover formal syntax (especially under Minimalist Program), understudied languages, and interdisciplinary research for exploring the linguistic essence in human's mind.
         
   - block: collection
     content:
