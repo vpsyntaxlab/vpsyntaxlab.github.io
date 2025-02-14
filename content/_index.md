@@ -10,7 +10,7 @@ sections:
       title: |
         CUHK Syntax Lab
       image:
-        filename: welcome.jpg
+        filename: group_pic.jpg
       text: |
         <br>
 
