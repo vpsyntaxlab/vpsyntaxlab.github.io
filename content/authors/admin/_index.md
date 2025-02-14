@@ -18,7 +18,9 @@ organizations:
     url: 'https://ling.cuhk.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: (Personal Page Here.)[https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/]
+bio: 
+  - name: Personal Page Here.
+    url: 'https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/'
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
