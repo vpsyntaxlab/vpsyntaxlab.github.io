@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Zhongyang Yu 余钟扬
-url: 'https://zhongyang-yu.github.io/'
+#url: ''
 
 # Full name (for SEO)
 first_name: Zhongyang

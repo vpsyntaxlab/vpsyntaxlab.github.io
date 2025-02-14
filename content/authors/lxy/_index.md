@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Xiangyu Li 李翔羽
-url: 'https://lixy255.github.io/Xiangyu_LI/'
+#url: ''
 
 # Full name (for SEO)
 first_name: Xiangyu
